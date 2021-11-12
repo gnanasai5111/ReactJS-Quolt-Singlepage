@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ReactJS-Quolt-Singlepage/static/js/main.74289cbe.chunk.js",
+    "main.js.map": "/ReactJS-Quolt-Singlepage/static/js/main.74289cbe.chunk.js.map",
+    "runtime-main.js": "/ReactJS-Quolt-Singlepage/static/js/runtime-main.2f8aedc5.js",
+    "runtime-main.js.map": "/ReactJS-Quolt-Singlepage/static/js/runtime-main.2f8aedc5.js.map",
+    "static/js/2.7d87e825.chunk.js": "/ReactJS-Quolt-Singlepage/static/js/2.7d87e825.chunk.js",
+    "static/js/2.7d87e825.chunk.js.map": "/ReactJS-Quolt-Singlepage/static/js/2.7d87e825.chunk.js.map",
+    "index.html": "/ReactJS-Quolt-Singlepage/index.html",
+    "static/js/2.7d87e825.chunk.js.LICENSE.txt": "/ReactJS-Quolt-Singlepage/static/js/2.7d87e825.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f8aedc5.js",
+    "static/js/2.7d87e825.chunk.js",
+    "static/js/main.74289cbe.chunk.js"
+  ]
+}
